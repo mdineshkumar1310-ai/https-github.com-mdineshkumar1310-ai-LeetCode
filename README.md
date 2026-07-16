@@ -59,4 +59,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
