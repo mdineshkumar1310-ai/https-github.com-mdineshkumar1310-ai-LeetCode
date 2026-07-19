@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0056-merge-intervals) |
+| [0162-find-peak-element](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0162-find-peak-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
