@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0877-stone-game) |
 ## Matrix
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0877-stone-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Memoization
 |  |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0100-same-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
