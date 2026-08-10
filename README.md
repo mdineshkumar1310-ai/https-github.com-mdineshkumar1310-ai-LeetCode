@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0704-binary-search) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0268-missing-number) |
 ## Math
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0268-missing-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -159,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0292-nim-game) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
