@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/0877-stone-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mdineshkumar1310-ai/https-github.com-mdineshkumar1310-ai-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Memoization
 |  |
